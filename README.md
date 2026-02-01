@@ -14,3 +14,91 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+
+📚 Online Bookstore – Frontend
+
+A modern and responsive frontend for the Online Bookstore built using React, Tailwind CSS, and shadcn/ui.
+
+🚀 Tech Stack
+
+React (Vite)
+
+Tailwind CSS
+
+shadcn/ui
+
+Axios
+
+React Router
+
+Context API
+
+Sonner (toast notifications)
+
+✨ Features
+🔐 Authentication
+
+Login & Register
+
+JWT stored securely
+
+Role-based UI rendering
+
+📚 Book Catalog
+
+Clean & responsive book cards
+
+Image slider for book covers
+
+Book description preview
+
+Low stock indicator
+
+Professional UI layout
+
+🛒 Cart System
+
+Add / remove items
+
+Increase & decrease quantity
+
+Real-time total calculation
+
+Stock-aware quantity limits
+
+Persistent cart state
+
+📦 Orders
+
+Checkout flow with success toast
+
+Order history page
+
+Order status tracking
+
+Displays book image, description, and price
+
+🧑‍💼 Admin Panel
+
+Add books with images & description
+
+Edit book details
+
+Remove or add images
+
+Delete books
+
+Manage orders & update status
+
+📊 Stock Awareness
+
+Low stock badges
+
+Stock displayed on book cards
+
+Prevents adding unavailable items
+
+Auto-refresh after checkout
