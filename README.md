@@ -16,6 +16,10 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
+## DEMO LINK OF THE PROJECT
+
+https://github.com/user-attachments/assets/f96d6ef2-ac9c-4c7d-9afc-ff3af7ba04cf
+
 
 
 📚 Online Bookstore – Frontend
@@ -102,3 +106,4 @@ Stock displayed on book cards
 Prevents adding unavailable items
 
 Auto-refresh after checkout
+
